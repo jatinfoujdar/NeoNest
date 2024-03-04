@@ -8,7 +8,7 @@ const Header = () => {
       <span>
       <img className='h-[40px] ' src="https://res.cloudinary.com/dlb4xmxr0/image/upload/v1685259903/logo_vfi9xq.png" alt="Logo" />
       </span>
-      <span class="font-bold">NeoNust</span>
+      <span class="font-bold">NeoNest</span>
     </div>
     <div class="hidden grow items-start lg:flex">
       <ul class="ml-12 inline-flex space-x-8">
@@ -17,23 +17,7 @@ const Header = () => {
             href="#"
             class="inline-flex items-center text-sm font-semibold text-white hover:text-gray-900"
           >
-            Home
-            <span>
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="24"
-                height="24"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                stroke-width="2"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                class="ml-2 h-4 w-4"
-              >
-                <polyline points="6 9 12 15 18 9"></polyline>
-              </svg>
-            </span>
+            Sports
           </a>
         </li>
         <li>
@@ -41,23 +25,7 @@ const Header = () => {
             href="#"
             class="inline-flex items-center text-sm font-semibold text-white hover:text-gray-900"
           >
-            About
-            <span>
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="24"
-                height="24"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                stroke-width="2"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                class="ml-2 h-4 w-4"
-              >
-                <polyline points="6 9 12 15 18 9"></polyline>
-              </svg>
-            </span>
+            Health
           </a>
         </li>
         <li>
@@ -65,23 +33,7 @@ const Header = () => {
             href="#"
             class="inline-flex items-center text-sm font-semibold text-white hover:text-gray-900"
           >
-            Contact
-            <span>
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="24"
-                height="24"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                stroke-width="2"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                class="ml-2 h-4 w-4"
-              >
-                <polyline points="6 9 12 15 18 9"></polyline>
-              </svg>
-            </span>
+            Political            
           </a>
         </li>
       </ul>
